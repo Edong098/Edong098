@@ -1,6 +1,4 @@
 ## Hey, I'm Ahmad Jul Hadi!👋
-![Ahmad Jul Hadi](img/github-header-image.png)
- 
 <!--
 **Edong098/Edong098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

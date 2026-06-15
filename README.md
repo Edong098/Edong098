@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmad Jul Hadi 👋
 
 <p align="center">
-  <img src="img/Profile.png" width="100%" alt="Ahmad Jul Hadi Banner" />
+  <img src="img/PROFILE.png" width="100%" alt="Ahmad Jul Hadi Banner" />
 </p>
 
 ---

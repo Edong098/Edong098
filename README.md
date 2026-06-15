@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmad Jul Hadi 👋
 
 <p align="center">
-  <img src="img/PROFILE.png" width="100%" alt="Ahmad Jul Hadi Banner" />
+  <img src="https://raw.githubusercontent.com/Edong098/Edong098/main/img/PROFILE.png" width="100%" alt="Ahmad Jul Hadi Banner" />
 </p>
 
 ---

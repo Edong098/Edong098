@@ -1,12 +1,6 @@
 # Hi there, I'm Ahmad Jul Hadi 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+Student+🎓;AI+%26+Machine+Learning+Enthusiast+🤖;Web+Developer+💻;Cloud+Computing+Learner+☁️;Building+Intelligent+Solutions+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="img/Profile.png" width="160" alt="Ahmad Jul Hadi" style="border-radius: 50%;" />
 </p>
 
@@ -14,7 +8,7 @@
 
 ### 🚀 About Me
 
-Hello! I'm **Ahmad Jul Hadi** (often known as **Edong098**), a passionate Computer Science student dedicated to mastering Artificial Intelligence, Machine Learning, Web Development, and Cloud Computing. I thrive on translating complex problems into elegant, production-ready code.
+Hello! I'm **Ahmad Jul Hadi**, a passionate Computer Science student dedicated to mastering Artificial Intelligence, Machine Learning, Web Development, and Cloud Computing. I thrive on translating complex problems into elegant, production-ready code.
 
 * 🔭 **Current Focus**: Enhancing computer vision models and scaling full-stack applications.
 * 🌱 **Deep Learning**: Building intelligent classification systems and exploring advanced CNN architectures.
